@@ -3,7 +3,7 @@ Webpack-experimentation
 
 - [Getting Started](https://github.com/edgarfinn/Webpack-experimentation/tree/getting-started)
 
-- Asset Management
+- [Asset Management](https://github.com/edgarfinn/Webpack-experimentation/tree/asset-management)
 - Output Management
 - Development
 - Hot Module Replacement
