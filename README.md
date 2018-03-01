@@ -3,6 +3,9 @@ Webpack-experimentation
 
 - Loading CSS
 - Loading images
+  - checkout also:
+    - [image-webpack-loader](https://github.com/tcoopman/image-webpack-loader)
+    - [url-loader](https://webpack.js.org/loaders/url-loader/)
 - Loading fonts
 - Loading Data
 - Global Assets

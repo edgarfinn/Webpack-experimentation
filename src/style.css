@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Beon';
+  src: url('./Beon.otf');
+  font-weight: 600;
+  font-stye: normal;
+}
+
+
 .hello {
   color: red;
+  font-family: 'Beon';
+  background: url('./icon.png');
 }
