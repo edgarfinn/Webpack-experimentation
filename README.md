@@ -4,7 +4,7 @@ Webpack-experimentation
 - [Getting Started](https://github.com/edgarfinn/Webpack-experimentation/tree/getting-started)
 
 - [Asset Management](https://github.com/edgarfinn/Webpack-experimentation/tree/asset-management)
-- Output Management
+- [Output Management](https://github.com/edgarfinn/Webpack-experimentation/tree/output-management)
 - Development
 - Hot Module Replacement
 - Tree Shaking
