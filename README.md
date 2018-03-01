@@ -1,7 +1,7 @@
 # Webpack-experimentation
 Webpack-experimentation
 
-Getting Started
+[Getting Started](https://github.com/edgarfinn/Webpack-experimentation/tree/getting-started)
 Asset Management
 Output Management
 Development
