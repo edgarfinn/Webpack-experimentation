@@ -1,5 +1,8 @@
 # Webpack-experimentation
 Webpack-experimentation
 
-- Setting up HtmlWebpackPlugin
-- Cleaning up the ```/dist``` folder
+- Using source maps
+- Choosing a development tool
+- Using watch mode
+- Using webpack-dev-server
+- Using webpack-dev-middleware
